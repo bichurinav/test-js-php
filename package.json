@@ -1,0 +1,21 @@
+{
+  "name": "test-junior",
+  "version": "1.0.0",
+  "description": "Организаторы провели соревнования по автогонкам среди 15 участников (может быть и больше). У каждого участника был свой уникальный номер\r (список участников и информация о них доступна в файле data_cars.json). Заезды проходили в случайном порядке,\r каждому участнику было дано 4 попытки, всего было проведено 60 заездов. За каждую попытку участнику присваивались очки (результаты\r каждого заезда вы можете найти в файле data_attempts.json).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.stmd.pro/startmedia/test-junior.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0-beta.2"
+  }
+}

@@ -1,0 +1,13 @@
+.attempt {
+    border: 1px solid #469fff;
+    padding: 4px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.attempt.active {
+    background: #469fff;
+    color: #fff;
+    padding: 4px;
+    border-radius: 10px;
+    cursor: pointer;
+}
